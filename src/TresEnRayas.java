@@ -7,10 +7,6 @@ public class TresEnRayas {
      public static void main(String[] args) {
          Scanner input=new Scanner (System.in);
          int opcion=0;
-         do {
-             System.out.println("MENU");
-             System.out.
-         }
 
     }
 }
