@@ -8,7 +8,8 @@ public class TresEnRayas {
          Scanner input=new Scanner (System.in);
          int opcion=0;
          do {
-             System.out.println();
+             System.out.println("MENU");
+             System.out.
          }
 
     }
